@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Perceptron</string>
+    <string name="switchA">A&gt;P / A&lt;P </string>
+    <string name="switchB">B&gt;P / B&lt;P </string>
+    <string name="switchC">C&gt;P / C&lt;P </string>
+    <string name="switchD">D&gt;P / D&lt;P </string>
+    <string name="switchDeadline">iter/s</string>
+</resources>
